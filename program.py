@@ -61,6 +61,10 @@ def minachev3pr():
 def VegetableX():
     return 'Дрожжин А.В. выполнение практики 20:46'
 
-    @app.route('/astakhov')
+@app.route('/astakhov')
 def astakhov():
     return 'Астахов К.А. ИНБО-01-17'
+
+@app.route('/console7331')
+def console7331():
+    return 'Суровцев Роман'
