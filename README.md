@@ -18,6 +18,7 @@ python -m venv ./venv
 
 1. Открываем терминал от админа.
 
+
 2. Пишем и запускаем: `Set-ExecutionPolicy RemoteSigned`
 
 3. На вопрос отвечаем: A (Да для всех)
