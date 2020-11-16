@@ -71,4 +71,4 @@ def console7331():
 
 @app.route('/KarruNnn')
 def KarruNnn():
-    return 'Добрусь Кирилл'
+    return 'Добрусь Кирилл выполнил' 
