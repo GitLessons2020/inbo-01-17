@@ -68,3 +68,7 @@ def astakhov():
 @app.route('/console7331')
 def console7331():
     return 'Суровцев Роман'
+
+@app.route('/KarruNnn')
+def KarruNnn():
+    return 'Добрусь Кирилл'
