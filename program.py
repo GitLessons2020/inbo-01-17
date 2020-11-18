@@ -76,3 +76,7 @@ def KarruNnn():
 @app.route('/Aire-Encarme-Alanur')
 def Aire-Encarme-Alanur():
     return 'Олейник Алексей выполнил'
+
+@app.route('/morev')
+def morev():
+    return 'Морев Артем 3 практика' 
