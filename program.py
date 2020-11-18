@@ -72,3 +72,7 @@ def console7331():
 @app.route('/KarruNnn')
 def KarruNnn():
     return 'Добрусь Кирилл выполнил' 
+
+@app.route('/Aire-Encarme-Alanur')
+def Aire-Encarme-Alanur():
+    return 'Олейник Алексей выполнил'
